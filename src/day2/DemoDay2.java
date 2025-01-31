@@ -10,5 +10,10 @@ public class DemoDay2 {
 		System.out.println(a+b);
 		//this is pull practice
 	}
-
+   public void add(int a, int b) {
+	   System.out.println(a+b);
+   }
+   public void divide(int a, int b) {
+	   System.out.println(a/b);
+   }
 }
