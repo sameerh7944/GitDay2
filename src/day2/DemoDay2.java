@@ -8,7 +8,7 @@ public class DemoDay2 {
 		int a = 10;
 		int b = 5;
 		System.out.println(a+b);
-		
+		//this is pull practice
 	}
 
 }
