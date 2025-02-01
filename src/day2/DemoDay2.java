@@ -17,4 +17,5 @@ public class DemoDay2 {
 	   System.out.println(a/b);
    }
    //i like java
+	//pull practice
 }
